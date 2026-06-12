@@ -1,0 +1,42 @@
+This file is to be extracted.
+Section 1 – docx_testing:
+
+--- Embedded File: Microsoft_Word_Document.docx ---
+This is DOCX file
+--- End: Microsoft_Word_Document.docx ---
+
+Section 2 – xlsx_testing:
+
+--- Embedded File: Microsoft_Excel_Worksheet.xlsx ---
+  [Sheet: Sheet1]
+    This is	SHEET 1
+  [Sheet: Sheet2]
+    This is 	SHEET 2
+--- End: Microsoft_Excel_Worksheet.xlsx ---
+
+Section 3 – pdf_testing:
+
+--- Embedded File: embedded.pdf ---
+  [Page 1]
+    This is PDF file
+--- End: embedded.pdf ---
+
+Section 4 – eml_testing:
+
+--- Embedded File: eml_testing.eml ---
+  Subject: Email Testing
+  From: Akash Dey <adey976@gmail.com>
+  To: Akash Dey <adey976@gmail.com>
+  Date: Mon, 8 Jun 2026 16:59:04 +0530
+  Body: This is email file
+
+--- End: eml_testing.eml ---
+
+Section 5 – csv_testing:
+
+--- Embedded File: Microsoft_Excel_Macro-Enabled_Worksheet.xlsm ---
+  [Sheet: csv_testing]
+    This is	CSV file testing
+--- End: Microsoft_Excel_Macro-Enabled_Worksheet.xlsm ---
+
+Section 6 – The End!

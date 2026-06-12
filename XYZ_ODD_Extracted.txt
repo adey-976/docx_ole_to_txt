@@ -1,0 +1,165 @@
+Object Name | XYZ
+Sponsor | Akash
+Version | 2.0
+This file is to be extracted.
+Section 1
+1.1
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is docx_testing:
+
+--- Embedded File: Microsoft_Word_Document.docx ---
+This is DOCX file
+--- End: Microsoft_Word_Document.docx ---
+
+Above is the docx_testing.
+This is dummy text.
+This is dummy table:
+Cell 1
+Cell 2
+Cell 3
+Cell 4
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+Cell 1 | Cell 2 | Cell 3 | Cell 4
+Cell 1 | Cell 2
+Cell 3 | Cell 4
+Section 2
+2.1
+This is dummy text.
+This is xlsx_testing:
+
+--- Embedded File: Microsoft_Excel_Worksheet.xlsx ---
+  [Sheet: Sheet1]
+    This is	SHEET 1
+  [Sheet: Sheet2]
+    This is 	SHEET 2
+--- End: Microsoft_Excel_Worksheet.xlsx ---
+
+Above is the xlsx_testing.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is pdf_testing:
+
+--- Embedded File: embedded.pdf ---
+  [Page 1]
+    This is PDF file
+--- End: embedded.pdf ---
+
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+2.2
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is eml_testing:
+
+--- Embedded File: eml_testing.eml ---
+  Subject: Email Testing
+  From: Akash Dey <adey976@gmail.com>
+  To: Akash Dey <adey976@gmail.com>
+  Date: Mon, 8 Jun 2026 16:59:04 +0530
+  Body: This is email file
+
+--- End: eml_testing.eml ---
+
+Above is the eml_testing.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+Section 3
+3.1
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is 2nd xlsx_testing:
+
+--- Embedded File: Microsoft_Excel_Worksheet1.xlsx ---
+  [Sheet: Sheet1]
+    This is	SHEET 1
+  [Sheet: Sheet2]
+    This is 	SHEET 2
+--- End: Microsoft_Excel_Worksheet1.xlsx ---
+
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+This is dummy text.
+Section 4 – Additional Documents
+This is csv_testing:
+
+--- Embedded File: Microsoft_Excel_Macro-Enabled_Worksheet.xlsm ---
+  [Sheet: csv_testing]
+    This is	CSV file testing
+--- End: Microsoft_Excel_Macro-Enabled_Worksheet.xlsm ---
+
+This is dummy text.
+This is dummy text.
+This is 2nd eml_testing:
+
+--- Embedded File: eml_testing.eml ---
+  Subject: Email Testing
+  From: Akash Dey <adey976@gmail.com>
+  To: Akash Dey <adey976@gmail.com>
+  Date: Mon, 8 Jun 2026 16:59:04 +0530
+  Body: This is email file
+
+--- End: eml_testing.eml ---
+
+Section 5:
+End of the document.
